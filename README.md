@@ -1,3 +1,3 @@
-# My Awesome Book
+# 我的知乎收藏夹
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+整理知乎上的干货，适合反复阅读和学习。
