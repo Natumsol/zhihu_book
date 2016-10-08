@@ -5,4 +5,4 @@
 
 [@darasion](https://zhihu.com/people/c49aaf9b24511d231b24fce4edb257b1)
 
-第一时间想到了这张图：&lt;br&gt;&lt;img src=&#34;http://pic3.zhimg.com/50/584f6cff1c5f4645828331871c79ab92_b.jpg&#34; data-rawwidth=&#34;329&#34; data-rawheight=&#34;1020&#34; class=&#34;content_image&#34; width=&#34;329&#34;&gt;
+第一时间想到了这张图：<br><img src="http://pic3.zhimg.com/50/584f6cff1c5f4645828331871c79ab92_b.jpg" data-rawwidth="329" data-rawheight="1020" class="content_image" width="329">
